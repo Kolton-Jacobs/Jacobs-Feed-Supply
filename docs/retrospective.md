@@ -1,7 +1,7 @@
 # Project Retrospective — Jacobs Feed & Supply Website
 
 ## What went well
-The project stayed organized because I created the repository structure at a decent time and kept the scope relatively simple. Building the two-page prototype was straightforward once I reused the same header and navigation across both of the pages. Using one external stylesheet also helped keep the design consistent without overcomplicating the site too much.
+The project stayed organized because I created the repository outline sometime ahead on VSC and kept the scope relatively simple. Building the two-page prototype was pretty straightforward once I reused the same header and navigation across both of the pages. Using one external stylesheet also helped keep the design consistent without overcomplicating the site too much.
 
 ## What went wrong
 The biggest challenge was managing time and making sure I didn’t overthink features. It was easy to want to add more pages, more sections, or more styling. Another challenge was making sure everything in the repository matched the requirements exactly (correct file names, correct folders, and the proper documentation).
