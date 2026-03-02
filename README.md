@@ -3,8 +3,8 @@
 This repository contains a simple two-page website prototype and complete project documentation for a fictional small business, **Jacobs Feed & Supply**. The goal of this project is to demonstrate the ability to manage a web project from planning to delivery using course concepts from *Range* and *Project Management for the Unofficial Project Manager (PMUPM)*.
 
 ## Live Website
-- GitHub Pages: https://YOUR_GITHUB_USERNAME.github.io/jacobs-feed-supply/
-
+- GitHub Pages: (https://kolton-jacobs.github.io/Jacobs-Feed-Supply/)
+  
 ## Project Purpose
 Jacobs Feed & Supply is designed as a clean, realistic prototype for a local feed and farm supply store. The website emphasizes simple navigation, clear information, and consistent styling across pages. This final deliverable is a two-page prototype per course requirements, with Products/Services/Contact implemented as anchored sections to reflect the original project scope.
 ## Documentation
