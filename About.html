@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>About | Jacobs Feed & Supply</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <header class="site-header">
+    <div class="container">
+      <h1 class="logo">Jacobs Feed &amp; Supply</h1>
+      <p class="tagline">Feed, seed, and supply for the people who keep things growing and going.</p>
+
+      <nav aria-label="Primary navigation" class="nav">
+        <a href="index.html">Home</a>
+        <a href="about.html" aria-current="page">About</a>
+      </nav>
+    </div>
+  </header>
+
+  <main class="container">
+    <section class="card">
+      <h2>Our Story</h2>
+      <p>
+        Jacobs Feed &amp; Supply is a fictional small business created for a CMPA 3301 final project.
+        The goal is to demonstrate planning, documentation, and a clean two-page website prototype
+        that could realistically represent a local feed store.
+      </p>
+      <p>
+        In a real community, a store like this exists to support local ranchers, farmers, and families
+        by providing reliable products and clear guidance without overcomplicating the process.
+      </p>
+    </section>
+
+    <section class="grid">
+      <section class="card">
+        <h2>Mission</h2>
+        <p>
+          Provide dependable feed and supplies with service that’s helpful, honest, and consistent.
+        </p>
+      </section>
+
+      <section class="card">
+        <h2>Values</h2>
+        <ul>
+          <li>Practical advice over sales pressure</li>
+          <li>Consistency and quality in core inventory</li>
+          <li>Respect for customers’ time and budget</li>
+          <li>Community-first mindset</li>
+        </ul>
+      </section>
+    </section>
+
+    <section class="card">
+      <h2>Project Notes</h2>
+      <p>
+        This prototype focuses on structure and clarity. If expanded, the next steps would include
+        adding product categories, photos, a simple promotions section, and a contact form (front-end only).
+      </p>
+    </section>
+  </main>
+
+  <footer class="site-footer">
+    <div class="container">
+      <p>&copy; <span id="year"></span> Jacobs Feed &amp; Supply. Class project website prototype.</p>
+    </div>
+  </footer>
+
+  <script>
+    document.getElementById("year").textContent = new Date().getFullYear();
+  </script>
+</body>
+</html>
